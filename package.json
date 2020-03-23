@@ -1,0 +1,23 @@
+{
+  "name": "joi-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rferraris/joi-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rferraris/joi-tutorial/issues"
+  },
+  "homepage": "https://github.com/rferraris/joi-tutorial#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1"
+  }
+}
